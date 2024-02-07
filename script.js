@@ -1,6 +1,6 @@
 const personagemOnePiece = {
     nome: 'Monkey D. Luffy',
-    nacionalidade: 'Brasileiro',
+    nacionalidade: 'Brasil',
     akumanomi: 'Gomu Gomu',
     amante: 'Hancock',
     bando: 'Chapéu de Palha',
@@ -13,7 +13,7 @@ const personagemOnePiece = {
 }
 const personagemOnePiece2 = {
     nome:'Roronoa Zoro',
-    nacionalidade:'Japonês',
+    nacionalidade:'Japão',
     akumanomi:'',
     amante:'Sake',
     bando:'Chapéu de Palha',
@@ -39,7 +39,7 @@ const personagemOnePiece3 = {
 }
 const personagemOnePiece4 = {
     nome:'Sanji',
-    nacionalidade:'Francês',
+    nacionalidade:'França',
     akumanomi:'',
     amante:'Todas',
     bando:'Chapéu de Palha',
